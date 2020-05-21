@@ -1,3 +1,6 @@
 
 
 basic case studies of  EDA using retail stores data, hypothesis testing, pandas exercises.
+
+
+just to get the hands on  exp of Github ,i a writing this
