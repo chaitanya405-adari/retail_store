@@ -1,0 +1,3 @@
+
+
+basic case studies of  EDA using retail stores data, hypothesis testing, pandas exercises.
